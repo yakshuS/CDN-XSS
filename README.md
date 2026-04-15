@@ -1,2 +1,1 @@
 # CDN-XSS
-# CDN-XSS
